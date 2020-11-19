@@ -1,6 +1,6 @@
 {
   "auth": {
-    "wildrydes56f1042a": {
+    "wildrydes5bf608a0": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
