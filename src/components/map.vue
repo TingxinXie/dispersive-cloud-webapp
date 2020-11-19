@@ -157,7 +157,7 @@ var config = require('../config.js')
                         self = this
                         axios({
                             method: 'POST',
-                            url: config.api.invokeUrl + "/ride",
+                            url: config.api.invokeUrl + "/setdata",
                             headers: {
                                 Authorization: self.token,
                             },
